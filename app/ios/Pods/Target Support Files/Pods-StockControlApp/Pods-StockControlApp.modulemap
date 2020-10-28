@@ -1,0 +1,6 @@
+module Pods_StockControlApp {
+  umbrella header "Pods-StockControlApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
